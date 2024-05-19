@@ -8,5 +8,5 @@
 
 ## Download R studio
 
-## Run all the files for Logistic Regression and CART for 50/50 and 80/20 splits.
+Run all the files for Logistic Regression and CART for 50/50 and 80/20 splits.
 
